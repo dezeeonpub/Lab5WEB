@@ -562,3 +562,10 @@ body {
   }
 ```
 
+***Hasil***
+
+***HOME 
+![image](https://github.com/dezeeonpub/Lab5WEB/blob/292e92b4d9c63f23aa3bac9eb7a2e76741183220/res1.PNG)
+
+***
+![image](https://github.com/dezeeonpub/Lab5WEB/blob/292e92b4d9c63f23aa3bac9eb7a2e76741183220/res2.PNG)
